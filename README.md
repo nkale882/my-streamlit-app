@@ -43,6 +43,10 @@ An interactive web app built with **Streamlit** that combines real-time candlest
 
 ---
 
+<img width="825" height="814" alt="image" src="https://github.com/user-attachments/assets/8d472362-fe52-425b-b715-7f12f6be96f0" />
+<img width="825" height="814" alt="image" src="https://github.com/user-attachments/assets/c1f7a60e-3baa-4900-8119-10e30c801138" />
+
+
 ## 🧠 Sample Questions to Ask the Chatbot
 
 - What was the highest price ever recorded?
